@@ -5,10 +5,6 @@
 
 ### Данная программа использует 2 алгоритма для перевода чисел ###
 1. Показывает то как компьютер хранит числа в памяти(Reading from memory)
-<p align="center">
-  <img src="creenshots/R.png" width="350" title="hover text">
-  <img src="creenshots/R.png" width="350" alt="accessibility text">
-</p>
 ![alt text](screenshots/R.png/200x150)
 2. Алгоритм самой программы который преобразовывает введенное число в двоичный формат(Algorithm)
  
